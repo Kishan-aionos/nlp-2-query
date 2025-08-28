@@ -1,0 +1,7 @@
+.env
+venv-sql
+query.py
+northwind_mini_mysql_large.sql
+ca.pem
+database_add.py
+database_create.py
